@@ -10,7 +10,7 @@ Use como quiser e sinta-se à vontade para acompanhar a jornada!
 
 
 ## OBSERVAÇÕES
-🔄 A lista está sobre atualizações 🔄
+⚠️🔄 A lista está sobre atualizações 🔄⚠️
 
 🧠 Estou aprendendo e 💾 Salvando progresso...
 
