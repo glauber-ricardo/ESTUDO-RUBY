@@ -1,8 +1,11 @@
 
 # 📖 Ruby on Rails - Meu Progresso de Aprendizado
 
-✨ Bem-vindo(a) ao meu repositório de estudos Ruby!
-Se você não souber por onde começar ou o que estudar, criei um roadmap baseado no meu avanço e nas principais etapas para aprender a linguagem. Fique à vontade para seguir junto!
+✨ Seja bem-vindo(a)!
+
+Se você não souber por onde começar ou estiver perdido(a) no que estudar, aqui tem um roadmap que criei com base no meu próprio avanço aprendendo Ruby.  
+Use como quiser e sinta-se à vontade para acompanhar a jornada!
+
 
 ## OBSERVAÇÕES
 👩‍💻A lista está sobre atualizações 🔄
