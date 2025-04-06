@@ -15,30 +15,49 @@ Use e sinta-se à vontade para acompanhar a jornada!
 🔄 A lista está sobre atualizações 🔄
 
 🧠 Estou aprendendo e 💾 Salvando o progresso...
+
 #
+
 ## 💡 Dicas que Me Ajudaram a Aprender Mais Rápido
 ## Aprender programação pode ser difícil no começo, mas essas práticas tornaram minha jornada mais leve e eficiente:
 
 1️⃣ **Menos é mais (de verdade)**
 
-Estudar por 25 a 30 minutos com foco todo dia vale mais do que 1 hora sem constância. _
- Constância importa mais do que intensidade.
+Estudar por 25 a 30 minutos com foco todo dia vale mais do que 1 hora sem constância. 
+
+**Constância importa mais do que intensidade.**
+
+#
 
 2️⃣ **Anote e risque o que já aprendeu**
+
 Isso ajuda a visualizar seu progresso.
+
 Exemplo:
-Variáveis
+
+~~Variáveis~~
+
 Métodos
+
 Loops
 
+#
+
 3️⃣ **Entenda → Escreva → Ensine**
+
 Veja o conteúdo, escreva com suas palavras, e tente explicar como se fosse pra alguém que nunca programou.
-Se consegue ensinar, é porque entendeu.
+
+**Se consegue ensinar, é porque entendeu.**
+
+#
 
 4️⃣ **Não apresse a colheita**
-Foca na constância. Se plantar limão, vai colher limão. Só continue regando.
-O resultado sempre vem.
 
+Foca na constância. Se plantar limão, vai colher limão. Só continue regando.
+
+**O resultado sempre vem.**
+
+#
 
 # 🗺️ Roadmap 🛣️
 
