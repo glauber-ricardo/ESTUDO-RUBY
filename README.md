@@ -80,15 +80,5 @@ Foca na constância. Se plantar limão, vai colher limão. Só continue regando.
 ## 1️⃣ Fundamentos do Ruby (Base sólida primeiro)
 
 - ✅ Variáveis e Tipos de Dados
-- ✅ Operadores e Expressões
-- ✅ Estruturas de Controle (if, case, loops)
-- ✅ Métodos e Blocos (yield, Procs, Lambdas)
-- ✅ Arrays e Hashes (Manipulação de coleções)
-- ✅ Manipulação de Strings
-- ✅ Classes, Objetos e Métodos de Instância (@)
-- ✅ Herança e Módulos (include, extend)
-- ✅ Manipulação de Arquivos (File, Dir)
-- ✅ Tratamento de Exceções (begin/rescue)
 
-🔹 Projeto: Criar um script em Ruby que manipula arquivos e faz cálculos simples.
 #
