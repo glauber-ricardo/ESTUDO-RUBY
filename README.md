@@ -80,5 +80,6 @@ Foca na constância. Se plantar limão, vai colher limão. Só continue regando.
 ## 1️⃣ Fundamentos do Ruby (Base sólida primeiro)
 
 - ✅ Variáveis e Tipos de Dados
+- ✅ Operadores e Expressões
 
 #
