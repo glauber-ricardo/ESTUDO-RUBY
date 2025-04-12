@@ -82,5 +82,6 @@ Foca na constância. Se plantar limão, vai colher limão. Só continue regando.
 - ✅ Variáveis e Tipos de Dados
 - ✅ Operadores e Expressões
 - ✅ Estruturas de Controle (if, case, loops)
+- ✅ Métodos e Blocos (yield, Procs, Lambdas)
   
 #
