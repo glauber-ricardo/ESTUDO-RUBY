@@ -83,5 +83,6 @@ Foca na constância. Se plantar limão, vai colher limão. Só continue regando.
 - ✅ Operadores e Expressões
 - ✅ Estruturas de Controle (if, case, loops)
 - ✅ Métodos e Blocos (yield, Procs, Lambdas)
+- ✅ Arrays e Hashes (Manipulação de coleções)
   
 #
